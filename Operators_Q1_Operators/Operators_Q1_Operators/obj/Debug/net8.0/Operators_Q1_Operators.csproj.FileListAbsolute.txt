@@ -1,0 +1,15 @@
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.AssemblyInfoInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.AssemblyInfo.cs
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.csproj.CoreCompileInputs.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.sourcelink.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.exe
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.deps.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.runtimeconfig.json
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\refint\Operators_Q1_Operators.dll
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.pdb
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.genruntimeconfig.cache
+C:\C#-CoderSchool\Exercise\C-Sharp-Practice-L3-Operators\Operators_Q1_Operators\Operators_Q1_Operators\obj\Debug\net8.0\ref\Operators_Q1_Operators.dll
